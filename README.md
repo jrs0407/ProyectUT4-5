@@ -13,7 +13,7 @@ Además, el sistema **optimiza la sincronización utilizando hilos** para mejora
 
 ### 🎥 **Demo y Explicación en Video**
 📺 **Mira la explicación completa del proyecto en YouTube:**  
-[🔗 Enlace al Video](https://www.youtube.com/watch?v=XXXXXXX) 
+[🔗 Enlace al Video](https://youtu.be/jbk6G0VsXVk) 
 
 ---
 
